@@ -1,5 +1,14 @@
-# code_review
-코드 리뷰 실습을 위한 저장소입니다.
+# Project 1
+---
+## Files
+- `priority_queue.cc`, `priority_queue.h` : Class templatePriorityQueue source code
+- `main.cc` : Usage for templatePriorityQueue class
+- `priority_queue_test.cc` : Unittest code for templatePriorityQueue class using GTest library
 
-## 목표
-* 예제 코드를 기반으로 코드리뷰 절차를 실습합니다.
+## Install
+
+```
+# cmake CMakeLists.txt
+# make
+# ./main
+```
